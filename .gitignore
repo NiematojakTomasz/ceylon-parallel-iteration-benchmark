@@ -1,0 +1,16 @@
+# My files
+c11
+
+# Artifacts
+#modules/**/*.car
+#modules/**/*.car.idx
+#modules/**/*.car.sha1
+#modules/**/*.src
+#modules/**/*.src.sha1
+
+# Artifcats simplier
+modules
+
+# .ceylon
+.ceylon
+
