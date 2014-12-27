@@ -28,4 +28,9 @@ Duration: 69
 $ ceylon run com.github.niematojaktomasz.ceylonparalleliterationbenchmark.test2
 Duration: 3490
 ```
-
+```
+$ ceylon run com.github.niematojaktomasz.ceylonparalleliterationbenchmark.test3
+Duration: 9732
+$ ceylon run com.github.niematojaktomasz.ceylonparalleliterationbenchmark.test3
+Duration: 9698
+```
